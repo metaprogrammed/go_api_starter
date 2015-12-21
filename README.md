@@ -1,4 +1,4 @@
-Boilerplate RESTful JSON API with Go & Mux
+RESTful JSON API Starter Project with Go & Mux
 
 To use, clone the repo:
 
